@@ -11,6 +11,16 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: YouTube
+    url: https://www.youtube.com/
+  - name: Facebook
+    url: https://www.facebook.com/
+  - name: NCU
+    url: https://www.ncu.edu.tw/tw/index.html
+  - name: NCU portal
+    url: https://portal.ncu.edu.tw/login
+  - name: NCU Exteacurricular Actitvity Section
+    url: https://club.adm.ncu.edu.tw/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
