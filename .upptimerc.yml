@@ -22,7 +22,7 @@ sites:
   - name: NCU Exteacurricular Actitvity Section
     url: https://club.adm.ncu.edu.tw/
   - name: Fake
-    url: https://tw.beanfun.com/.
+    url: https://tw.beanfun.cccom/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
